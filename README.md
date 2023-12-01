@@ -11,5 +11,5 @@
 - ⚡ Fun fact: I have a dog named Reese! If we ever chat virtually, she'll probably make an appearance
 
 ## Connect with me 🤝
-![image](https://github.com/l-olson1214/l-olson1214/assets/134959259/e13bd973-e7d0-4b1f-9564-4468e095e411)(https://linkedin.com/in/l-olson) 
+[<img src="[drawing.jpg](https://github.com/l-olson1214/l-olson1214/assets/134959259/e13bd973-e7d0-4b1f-9564-4468e095e411)" alt="drawing" width="50"/>](https://linkedin.com/in/l-olson)
 
