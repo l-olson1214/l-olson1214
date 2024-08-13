@@ -2,7 +2,7 @@
 
 ## I'm an iOS Engineer who loves baking, powerlifting, all things arts and crafts, dog training, and learning new things
 
-- 🔭 I’m currently working on an app for the Maker's Market that I host at WillowTree!
+- 🔭 I’m currently working on a deep dive into UIKit!
 - 🌱 I’m currently learning more about code architecture and design.
 - 👯 I’m looking to collaborate on anything! I love new projects!
 - 🤔 I’m looking for help with ensuring I'm using best practices - if you see something wrong or that could be better, let me know!
